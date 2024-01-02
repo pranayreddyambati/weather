@@ -1,7 +1,7 @@
 # Weather API Site
 <br>
 
-### Visit the live site: Weather API Site
+Visit the live site: [Weather API Site Demo](https://pranayreddyambati.github.io/weather)
 
 This project is a simple weather application that fetches data from the OpenWeatherMap API to display current weather, forecasts, and air quality information.
 
